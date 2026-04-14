@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RPNEvaluator.Tests/RPNEvaluator.Tests.csproj" Id="49f785af-fbf8-4eef-9a86-5f0d15cf90ef" />
+  <Project Path="RPNEvaluator/RPNEvaluator.csproj" />
+</Solution>

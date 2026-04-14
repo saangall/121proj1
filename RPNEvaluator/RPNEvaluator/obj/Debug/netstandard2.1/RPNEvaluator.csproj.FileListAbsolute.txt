@@ -1,0 +1,9 @@
+C:\Users\mrdoo\Documents\CMPM 121\RPNEvaluator\RPNEvaluator\bin\Debug\netstandard2.1\RPNEvaluator.deps.json
+C:\Users\mrdoo\Documents\CMPM 121\RPNEvaluator\RPNEvaluator\bin\Debug\netstandard2.1\RPNEvaluator.dll
+C:\Users\mrdoo\Documents\CMPM 121\RPNEvaluator\RPNEvaluator\bin\Debug\netstandard2.1\RPNEvaluator.pdb
+C:\Users\mrdoo\Documents\CMPM 121\RPNEvaluator\RPNEvaluator\obj\Debug\netstandard2.1\RPNEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdoo\Documents\CMPM 121\RPNEvaluator\RPNEvaluator\obj\Debug\netstandard2.1\RPNEvaluator.AssemblyInfoInputs.cache
+C:\Users\mrdoo\Documents\CMPM 121\RPNEvaluator\RPNEvaluator\obj\Debug\netstandard2.1\RPNEvaluator.AssemblyInfo.cs
+C:\Users\mrdoo\Documents\CMPM 121\RPNEvaluator\RPNEvaluator\obj\Debug\netstandard2.1\RPNEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\mrdoo\Documents\CMPM 121\RPNEvaluator\RPNEvaluator\obj\Debug\netstandard2.1\RPNEvaluator.dll
+C:\Users\mrdoo\Documents\CMPM 121\RPNEvaluator\RPNEvaluator\obj\Debug\netstandard2.1\RPNEvaluator.pdb

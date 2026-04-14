@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49F785AF-FBF8-4EEF-9A86-5F0D15CF90EF}|RPNEvaluator.Tests\\RPNEvaluator.Tests.csproj|c:\\users\\mrdoo\\documents\\cmpm 121\\rpnevaluator\\rpnevaluator.tests\\rpnevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49F785AF-FBF8-4EEF-9A86-5F0D15CF90EF}|RPNEvaluator.Tests\\RPNEvaluator.Tests.csproj|solutionrelative:rpnevaluator.tests\\rpnevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED4E1875-68F7-1844-273F-3E2E4CB3D11D}|RPNEvaluator\\RPNEvaluator.csproj|c:\\users\\mrdoo\\documents\\cmpm 121\\rpnevaluator\\rpnevaluator\\rpnevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED4E1875-68F7-1844-273F-3E2E4CB3D11D}|RPNEvaluator\\RPNEvaluator.csproj|solutionrelative:rpnevaluator\\rpnevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RPNEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.cs",
+              "RelativeDocumentMoniker": "RPNEvaluator\\RPNEvaluator.cs",
+              "ToolTip": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.cs",
+              "RelativeToolTip": "RPNEvaluator\\RPNEvaluator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T23:36:17.322Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RPNEvaluatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator.Tests\\RPNEvaluatorTests.cs",
+              "RelativeDocumentMoniker": "RPNEvaluator.Tests\\RPNEvaluatorTests.cs",
+              "ToolTip": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator.Tests\\RPNEvaluatorTests.cs",
+              "RelativeToolTip": "RPNEvaluator.Tests\\RPNEvaluatorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T06:39:12.149Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
