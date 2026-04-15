@@ -936,11 +936,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator.Tests\\RPNEvaluator.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\mrdoo\\source\\repos\\saangall\\121proj1\\RPNEvaluator\\RPNEvaluator.Tests\\RPNEvaluator.Tests.csproj",
       "projectName": "RPNEvaluator.Tests",
-      "projectPath": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator.Tests\\RPNEvaluator.Tests.csproj",
+      "projectPath": "C:\\Users\\mrdoo\\source\\repos\\saangall\\121proj1\\RPNEvaluator\\RPNEvaluator.Tests\\RPNEvaluator.Tests.csproj",
       "packagesPath": "C:\\Users\\mrdoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator.Tests\\obj\\",
+      "outputPath": "C:\\Users\\mrdoo\\source\\repos\\saangall\\121proj1\\RPNEvaluator\\RPNEvaluator.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -960,8 +960,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.csproj": {
-              "projectPath": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.csproj"
+            "C:\\Users\\mrdoo\\source\\repos\\saangall\\121proj1\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.csproj": {
+              "projectPath": "C:\\Users\\mrdoo\\source\\repos\\saangall\\121proj1\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.csproj"
             }
           }
         }

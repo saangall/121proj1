@@ -35,14 +35,14 @@ public class RPNEValuatorTests
     [Fact]
     public void TestOnePlusOneFloat()
     {
-        var result = RPNEvaluator.Evaluatef("1 1 +", null);
+        var result = RPNEvaluator.Evaluatef("1 1 +", new Dictionary<string, float>());
         Assert.Equal(2.0, result);
     }
 
     [Fact]
     public void DivisionFloat()
     {
-        var result = RPNEvaluator.Evaluatef("1 2 /", null);
+        var result = RPNEvaluator.Evaluatef("1 2 /", new Dictionary<string, float>());
         Assert.Equal(0.5, result);
     }
 
@@ -53,7 +53,7 @@ public class RPNEValuatorTests
 
     public void TestFormulaFloatVariant(string formula, float expected)
     {
-        var result = RPNEvaluator.Evaluatef(formula, null);
+        var result = RPNEvaluator.Evaluatef(formula, new Dictionary<string, float>());
         Assert.Equal(expected, result);
     }
 

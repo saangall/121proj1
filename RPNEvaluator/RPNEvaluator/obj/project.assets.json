@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.csproj",
+      "projectUniqueName": "C:\\Users\\mrdoo\\source\\repos\\saangall\\121proj1\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.csproj",
       "projectName": "RPNEvaluator",
-      "projectPath": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.csproj",
+      "projectPath": "C:\\Users\\mrdoo\\source\\repos\\saangall\\121proj1\\RPNEvaluator\\RPNEvaluator\\RPNEvaluator.csproj",
       "packagesPath": "C:\\Users\\mrdoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrdoo\\Documents\\CMPM 121\\RPNEvaluator\\RPNEvaluator\\obj\\",
+      "outputPath": "C:\\Users\\mrdoo\\source\\repos\\saangall\\121proj1\\RPNEvaluator\\RPNEvaluator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

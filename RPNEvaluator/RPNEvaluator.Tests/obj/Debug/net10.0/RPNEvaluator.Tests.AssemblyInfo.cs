@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPNEvaluator.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5738a2c103f4badf1699a4ca3462f681af90ba1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dae5d472f68d6071f6a2176c5fe85c52bc4b70d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPNEvaluator.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPNEvaluator.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
